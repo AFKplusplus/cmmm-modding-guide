@@ -30,6 +30,6 @@ You will need to get CMMM source code. You can download it [here](https://github
 
 Extract the archive, go into Unity Hub, and in the Projects tab click `Open` and locate your source code folder. If it has unrelated files, such as launcher or READMEs, open `src` folder inside of it - you should see `Assets`, `Packages`, `ProjectSettings`, `Cell Machine Mystic Mod_Data` folders. Click `Open`.
 
-You have now installed and opened thee CMMM source code, and the Unity project should open shortly!
+You have now installed and opened the CMMM source code, and the Unity project should open shortly!
 
 Click "Next" button below to continue to next article.
