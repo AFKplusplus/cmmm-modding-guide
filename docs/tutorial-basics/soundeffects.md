@@ -11,8 +11,6 @@ Then, double click the `Assets` folder (yes, i know, weird) and open the `Music`
 
 ### Adding the sound effect into the game
 
-Open your project in Unity. If you don't have a project, please visit [Introduction](../intro).
-
 First, open your project in Unity. If you don't have a project, please visit [Introduction](../intro).
 
 In the file explorer at the bottom, you will want to go to the same directory that contains your sound effects. Then, copy one of the existing prefabs
